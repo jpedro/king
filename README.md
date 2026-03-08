@@ -6,10 +6,10 @@
 
 
 > **Important Clarification:**
-> 
+>
 > Keep in mind that `king-rules` is short for **K**ubernetes **ING**ress **Rules**,
 > not a justification for a juvenile pun of a silly meme.
-> 
+>
 > This is a serious certified E3E, which stands for E-tripple-E, which stands for
 > Enterprise Efficacy Endeavour&trade; Effort.
 
@@ -28,10 +28,6 @@ Instead we re-use the same ingress and just attach new rules as needed.
 We assume that each service will respond to its own subdomain (the
 `host` setting in the ingress' rule). Using wildcards at the DNS and LB
 certificate levels, one can expose these services in subdomains faster.
-
-I drew inspiration from https://github.com/hxquangnhat/kubernetes-auto-ingress
-but that code creates a new ingress for each seervice every time, which
-is exactly what we're trying to avoid here.
 
 
 ## Usage
@@ -201,7 +197,7 @@ $ kubectl get ingress dominion -o yaml
 
 - [ ] Support comma-separated hosts in the `king-rules/host`.
 
-- [ ] Support comma-separated paths in the `king-rule/path: /xxx`.
+- [ ] Support comma-separated paths in the `king-rule/path: /api`.
 
 
 <!--
