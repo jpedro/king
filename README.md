@@ -63,7 +63,7 @@ This simplifies this code and you can provision it exactly the way you need it.
 
 ## Example
 
-### Deploy the controller
+### Deploy the magnificent controller
 
 ```yaml
 apiVersion: apps/v1
