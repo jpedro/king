@@ -1,4 +1,4 @@
-# King Rules
+# King
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/jpedro/king-rules)](https://goreportcard.com/report/github.com/jpedro/king-rules)
 
@@ -7,7 +7,7 @@
 
 > **Important Clarification:**
 > 
-> Keep in mind that `king-rules` is short for **K**ubernetes **ING**ress **Rules**,
+> Keep in mind that `king` is short for **K**ubernetes **ING**ress rules,
 > not a justification for a juvenile pun of a silly meme.
 > 
 > This is a serious certified E3E, which stands for E-tripple-E, which stands for
