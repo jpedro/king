@@ -10,7 +10,7 @@
 > Keep in mind that `king` is short for **K**ubernetes **ING**ress rules,
 > not a justification for a juvenile pun of a silly meme.
 > 
-> This is a serious certified E3E, which stands for E-tripple-E, which stands for
+> This is a serious certified E3E, which reads as E-tripple-E, which stands for
 > Enterprise Efficacy Endeavour&trade; Effort.
 
 
